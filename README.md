@@ -1,2 +1,2 @@
 # Java-FTP
-Simple FTP Apllication on Java (Turkish)
+Simple FTP Apllication with Java runs on terminal (Turkish)
